@@ -5,7 +5,7 @@
   "description": "A pack for Sarkesh User System",
   "autoload": {
     "psr-4": {
-      "Sarkesh\\UserBundle\\": "src/"
+      "Sarkesh\\Bundle\\UserBundle": "src/"
     }
   },
   "require": {
@@ -13,7 +13,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "Sarkesh\\UserBundle\\Tests\\": "tests/"
+      "Sarkesh\\Bundle\\UserBundle\\Tests\\": "tests/"
     }
   },
   "license": "MIT",

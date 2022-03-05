@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Sarkesh\UserBundle\src;
+namespace Sarkesh\Bundle\UserBundle;
 
 class SarkeshUserBundle extends \Symfony\Component\HttpKernel\Bundle\Bundle
 {
