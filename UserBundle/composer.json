@@ -1,0 +1,25 @@
+{
+  "name": "sarkesh/SarkeshUserBundle",
+  "type": "symfony-pack",
+  "license": "MIT",
+  "description": "A pack for Sarkesh User System",
+  "autoload": {
+    "psr-4": {
+      "Sarkesh\\UserBundle\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.0.2"
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Sarkesh\\UserBundle\\Tests\\": "tests/"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Babak Alizadeh",
+      "email": "alizadeh.babak@gmail.com"
+    }
+}
