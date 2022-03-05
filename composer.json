@@ -3,20 +3,19 @@
   "type": "symfony-pack",
   "license": "MIT",
   "description": "A pack for Sarkesh User System",
+  "require": {
+    "php": ">=8.0.2"
+  },
   "autoload": {
     "psr-4": {
       "Sarkesh\\Bundle\\UserBundle": "src/"
     }
-  },
-  "require": {
-    "php": ">=8.0.2"
   },
   "autoload-dev": {
     "psr-4": {
       "Sarkesh\\Bundle\\UserBundle\\Tests\\": "tests/"
     }
   },
-  "license": "MIT",
   "authors": [
     {
       "name": "Babak Alizadeh",
