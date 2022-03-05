@@ -1,5 +1,5 @@
 {
-  "name": "sarkesh/SarkeshUserBundle",
+  "name": "sarkesh/sarkesh-user-bundle",
   "type": "symfony-pack",
   "license": "MIT",
   "description": "A pack for Sarkesh User System",
