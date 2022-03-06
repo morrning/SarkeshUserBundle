@@ -4,7 +4,6 @@
   "license": "MIT",
   "description": "A pack for Sarkesh User System",
   "require": {
-    "symfony/security-bundle" : "*"
   },
   "autoload": {
     "psr-4": {
