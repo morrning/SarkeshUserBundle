@@ -16,6 +16,7 @@
       "Sarkesh\\Bundle\\UserBundle\\Tests\\": "tests/"
     }
   },
+  "minimum-stability": "stable",
   "authors": [
     {
       "name": "Babak Alizadeh",
