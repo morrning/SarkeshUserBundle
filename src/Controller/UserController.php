@@ -1,6 +1,6 @@
 <?php
 
-namespace \Sarkesh\UserBundle\Controller;
+namespace \Sarkesh\Bundle\UserBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 
